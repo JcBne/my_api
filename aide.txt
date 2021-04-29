@@ -1,0 +1,5 @@
+1 - aller sur gitHub, repositories, new
+2 - donner un nom et une description puis enregistrer
+3 - copier le lien du git depuis le bouton vert code
+4 - Depuis une fenêtre du terminal, se rendre dans le dossier qui va contenir le proget et saisi:
+git clone https://github.com/JcBne/my_api.git (où https://github.com/JcBne/my_api.git est le lien ci-dessus)

@@ -1,0 +1,16 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Hmburger simple",
+            "web": "http://essai.free.fr",
+            "description": "Un steack avec tomate entre deux tranches de pain"
+        },
+        {
+            "id": 1,
+            "name": "Hmburger double",
+            "web": "http://essai.free.fr",
+            "description": "Deux steacks avec tomate et salade entre 3 tranches de pain"
+        }
+    ]
+}
